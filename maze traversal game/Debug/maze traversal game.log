@@ -1,0 +1,4 @@
+﻿  maze traversal game.cpp
+C:\Users\navid\source\repos\maze traversal game\maze traversal game\maze traversal game.cpp(38,16): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\navid\source\repos\maze traversal game\maze traversal game\maze traversal game.cpp(40,17): warning C4018:  '<': signed/unsigned mismatch
+  maze traversal game.vcxproj -> C:\Users\navid\source\repos\maze traversal game\Debug\maze traversal game.exe
