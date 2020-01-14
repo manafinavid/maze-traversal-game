@@ -1,6 +1,6 @@
-// maze traversal game.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
+// maked by navid
+// manafinavid@yahoo.com
+// https://github.com/manafinavid
 #include <iostream>
 #include <string>
 #include <conio.h>
